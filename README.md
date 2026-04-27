@@ -1,13 +1,13 @@
 # 🌐 Hemanth's Portfolio
 
 Hi, I'm **Hemanth** 👋  
-🎓 BTech Student | 🔐 Cybersecurity Enthusiast | 💻 Web Developer  
+🎓 CSE Student | 💻 Frontend & Full Stack Developer | 🎨 UI/UX Enthusiast  
 
 ---
 
 ## 🚀 About Me
-I am a passionate Cybersecurity and Web Development student focused on building secure, efficient, and user-friendly applications.  
-I enjoy learning new technologies and applying them in real-world projects.
+I am a passionate Computer Science student focused on building modern, responsive, and user-friendly web applications.  
+I enjoy creating clean UI designs and developing full-stack applications that solve real-world problems.
 
 ---
 
@@ -18,37 +18,38 @@ I enjoy learning new technologies and applying them in real-world projects.
 
 ## 💻 Tech Stack
 - **Languages:** Java, JavaScript  
-- **Frontend:** HTML, CSS  
-- **Concepts:** Networking, Cybersecurity Basics  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Concepts:** UI/UX Design, Responsive Design, Web Development  
 
 ---
 
 ## 📂 Projects
 
-### 🔐 Password Strength Checker
-- Checks password security using JavaScript  
-- Helps users create strong passwords  
-
 ### 🌐 Personal Portfolio Website
-- Responsive portfolio website  
-- Showcases skills and projects  
+- Responsive and modern portfolio design  
+- Showcases skills, projects, and contact info  
+
+### 🔐 Login System (Demo)
+- Simple authentication UI  
+- Clean frontend design  
 
 ---
 
 ## 🎯 Career Objective
-To build a strong career in **Cybersecurity and Web Development**, contributing to secure and scalable applications.
+To build a strong career in **Frontend and Full Stack Development**, creating efficient, scalable, and visually appealing applications.
 
 ---
 
 ## 📈 Future Goals
-- Build advanced cybersecurity tools  
-- Learn ethical hacking & penetration testing  
-- Contribute to open-source projects  
+- Master Full Stack Development  
+- Build real-world scalable projects  
+- Improve UI/UX design skills  
+- Contribute to open-source  
 
 ---
 
 ## 📬 Contact Me
-📧 Email: your-email@gmail.com  
+📧 Email: hemanthreddy0408@gmail.com  
 🔗 GitHub: https://github.com/hemanth382537  
 
 ---
